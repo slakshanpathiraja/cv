@@ -26,6 +26,4 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="css/flaticon.css" />
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-
-<meta name="google-site-verification" content="ZIcpM-vUOpvc75B8L5FC5P0uJLE4SXPSRNfydfa3eD8" />
 </head>

@@ -88,7 +88,7 @@ require_once("includes/head.php");
                 <h6>Qualifications</h6>
                 <div class="gallery">
                      <!-- a card -->
-                    <div class="cards"><a class="item" href="https://www.udemy.com/certificate/UC-6c0390c2-6977-450d-bec0-cb4b543a3229/">
+                    <div class="cards c_h"><a class="item" href="https://www.udemy.com/certificate/UC-6c0390c2-6977-450d-bec0-cb4b543a3229/">
                         <div class="gallery" ><!--640*420-->
                             <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-6c0390c2-6977-450d-bec0-cb4b543a3229.jpg" alt="" width="100%">
                         </div>
@@ -96,7 +96,7 @@ require_once("includes/head.php");
                         </a>
                     </div>
                      <!-- a card -->
-                     <div class="cards"><a class="item" href="https://www.sololearn.com/Certificate/1014-18360287/pdf/">
+                     <div class="cards c_h"><a class="item" href="https://www.sololearn.com/Certificate/1014-18360287/pdf/">
                         <div class="gallery" ><!--640*420-->
                             <img src="https://www.sololearn.com/Certificate/1014-18360287/jpg" alt="" width="100%">
                         </div>
@@ -104,7 +104,7 @@ require_once("includes/head.php");
                         </a>
                     </div>
                      <!-- a card -->
-                     <div class="cards"><a class="item" href="player.php">
+                     <div class="cards c_h"><a class="item" href="player.php">
                         <div class="gallery" ><!--640*420-->
                             <img src="img/work.jpg" alt="" width="100%">
                         </div>
@@ -112,7 +112,7 @@ require_once("includes/head.php");
                         </a>
                     </div>
                      <!-- a card -->
-                     <div class="cards"><a class="item" href="player.php">
+                     <div class="cards c_h"><a class="item" href="player.php">
                         <div class="gallery" ><!--640*420-->
                             <img src="img/work.jpg" alt="" width="100%">
                         </div>
@@ -120,7 +120,7 @@ require_once("includes/head.php");
                         </a>
                     </div>
                      <!-- a card -->
-                     <div class="cards"><a class="item" href="player.php">
+                     <div class="cards c_h"><a class="item" href="player.php">
                         <div class="gallery" ><!--640*420-->
                             <img src="img/work.jpg" alt="" width="100%">
                         </div>
@@ -180,43 +180,83 @@ require_once("includes/head.php");
                 </div>
                 <div class="gallery">
                      <!-- a card -->
-                    <div class="cards"><a class="item" href="player.php">
+                    <div class="cards p_h"><a class="item" href="https://skypipit.gq/">
                         <div class="gallery" ><!--640*420-->
-                            <img src="img/work.jpg" alt="" width="100%">
+                            <img src="img/1.jpg" alt="Skypipit inc" width="100%">
                         </div>
-                        <p class="title">ghjghgnbbnmnbbm nbnb></p>
+                        <p class="title">Skypipit inc</p>
                         </a>
                     </div>
                      <!-- a card -->
-                     <div class="cards"><a class="item" href="player.php">
+                     <div class="cards p_h"><a class="item" href="https://skypipit.gq/">
                         <div class="gallery" ><!--640*420-->
-                            <img src="img/work.jpg" alt="" width="100%">
+                            <img src="img/2.jpg" alt="Skypipit inc" width="100%">
                         </div>
-                        <p class="title">ghjghgnbbnmnbbm nbnb></p>
+                        <p class="title">Skypipit inc</p>
                         </a>
                     </div>
                      <!-- a card -->
-                     <div class="cards"><a class="item" href="player.php">
+                     <div class="cards p_h"><a class="item" href="https://skypipit.gq/">
                         <div class="gallery" ><!--640*420-->
-                            <img src="img/work.jpg" alt="" width="100%">
+                            <img src="img/3.jpg" alt="Skypipit inc" width="100%">
                         </div>
-                        <p class="title">ghjghgnbbnmnbbm nbnb></p>
+                        <p class="title">Skypipit inc</p>
                         </a>
                     </div>
                      <!-- a card -->
-                     <div class="cards"><a class="item" href="player.php">
+                     <div class="cards p_h"><a class="item" href="https://skypipit.gq/">
                         <div class="gallery" ><!--640*420-->
-                            <img src="img/work.jpg" alt="" width="100%">
+                            <img src="img/4.jpg" alt="Skypipit inc" width="100%">
                         </div>
-                        <p class="title">ghjghgnbbnmnbbm nbnb></p>
+                        <p class="title">Skypipit inc</p>
                         </a>
                     </div>
                      <!-- a card -->
-                     <div class="cards"><a class="item" href="player.php">
+                     <div class="cards p_h"><a class="item" href="https://skypipit.gq/">
                         <div class="gallery" ><!--640*420-->
-                            <img src="img/work.jpg" alt="" width="100%">
+                            <img src="img/5.jpg" alt="Skypipit inc" width="100%">
                         </div>
-                        <p class="title">ghjghgnbbnmnbbm nbnb></p>
+                        <p class="title">Skypipit inc</p>
+                        </a>
+                    </div>
+                    <!-- a card -->
+                    <div class="cards p_h"><a class="item" href="https://flynet.netlify.app/">
+                        <div class="gallery" ><!--640*420-->
+                            <img src="img/6.jpg" alt="Flynet blog" width="100%">
+                        </div>
+                        <p class="title">Flynet blog</p>
+                        </a>
+                    </div>
+                    <!-- a card -->
+                    <div class="cards p_h"><a class="item" href="https://flynet.netlify.app/">
+                        <div class="gallery" ><!--640*420-->
+                            <img src="img/7.jpg" alt="Flynet blog" width="100%">
+                        </div>
+                        <p class="title">Flynet blog</p>
+                        </a>
+                    </div>
+                    <!-- a card -->
+                    <div class="cards p_h"><a class="item" href="https://flynet.netlify.app/">
+                        <div class="gallery" ><!--640*420-->
+                            <img src="img/8.jpg" alt="Flynet blog" width="100%">
+                        </div>
+                        <p class="title">Flynet blog</p>
+                        </a>
+                    </div>
+                    <!-- a card -->
+                    <div class="cards p_h"><a class="item" href="https://mg2tor.herokuapp.com/ariang/#!/downloading">
+                        <div class="gallery" ><!--640*420-->
+                            <img src="img/9.jpg" alt="" width="100%">
+                        </div>
+                        <p class="title">Torent to cloud Storage project</p>
+                        </a>
+                    </div>
+                    <!-- a card -->
+                    <div class="cards p_h"><a class="item" href="https://lakshanvideo.herokuapp.com/">
+                        <div class="gallery" ><!--640*420-->
+                            <img src="img/10.jpg" alt="" width="100%">
+                        </div>
+                        <p class="title">video streaming project</p>
                         </a>
                     </div>
                 </div>
@@ -225,7 +265,31 @@ require_once("includes/head.php");
                 <h6>BLOG</h6>
                 <div class="gallery">
                      <!-- a card -->
-                    <div class="cards"><a class="item" href="player.php">
+                    <div class="cards b_h"><a class="item" href="https://flynet.netlify.app/windows-10-operating-system-free-download-full-version-with-key/">
+                        <div class="gallery" ><!--640*420-->
+                            <img src="img/blog_3.jpg" alt="" width="100%">
+                        </div>
+                        <p class="title">Microsoft Windows</p>
+                        </a>
+                    </div>
+                     <!-- a card -->
+                     <div class="cards b_h"><a class="item" href="https://flynet.netlify.app/microsoft-office-2019-free-download-full-version-with-crak-and-key/">
+                        <div class="gallery" ><!--640*420-->
+                            <img src="img/blog_2.jpeg" alt="" width="100%">
+                        </div>
+                        <p class="title">Microsoft Office</p>
+                        </a>
+                    </div>
+                     <!-- a card -->
+                     <div class="cards b_h"><a class="item" href="https://flynet.netlify.app/bunifuuiwinforms/">
+                        <div class="gallery" ><!--640*420-->
+                            <img src="img/blog_1.jpeg" alt="" width="100%">
+                        </div>
+                        <p class="title">Bunifu UI Framework</p>
+                        </a>
+                    </div>
+                     <!-- a card -->
+                     <div class="cards b_h"><a class="item" href="player.php">
                         <div class="gallery" ><!--640*420-->
                             <img src="img/work.jpg" alt="" width="100%">
                         </div>
@@ -233,31 +297,7 @@ require_once("includes/head.php");
                         </a>
                     </div>
                      <!-- a card -->
-                     <div class="cards"><a class="item" href="player.php">
-                        <div class="gallery" ><!--640*420-->
-                            <img src="img/work.jpg" alt="" width="100%">
-                        </div>
-                        <p class="title">ghjghgnbbnmnbbm nbnb></p>
-                        </a>
-                    </div>
-                     <!-- a card -->
-                     <div class="cards"><a class="item" href="player.php">
-                        <div class="gallery" ><!--640*420-->
-                            <img src="img/work.jpg" alt="" width="100%">
-                        </div>
-                        <p class="title">ghjghgnbbnmnbbm nbnb></p>
-                        </a>
-                    </div>
-                     <!-- a card -->
-                     <div class="cards"><a class="item" href="player.php">
-                        <div class="gallery" ><!--640*420-->
-                            <img src="img/work.jpg" alt="" width="100%">
-                        </div>
-                        <p class="title">ghjghgnbbnmnbbm nbnb></p>
-                        </a>
-                    </div>
-                     <!-- a card -->
-                     <div class="cards"><a class="item" href="player.php">
+                     <div class="cards b_h"><a class="item" href="player.php">
                         <div class="gallery" ><!--640*420-->
                             <img src="img/work.jpg" alt="" width="100%">
                         </div>
@@ -270,47 +310,25 @@ require_once("includes/head.php");
             <!-- Contact Page
             ================================================== --> 
             <div id="contact">
-                <div class="row">
-                    <!-- Contact Form -->
-                    <section class="contact-form col-md-6 padding_30 padbot_45">
-                        <div class="section-title top_15 bottom_30"><span></span><h2>Contact Form</h2></div>
-                        <form class="site-form">
-                            <div class="row">
-                                <div class="col-md-6">
-                                    <input class="site-input" placeholder="Name">
-                                </div>
-                                <div class="col-md-6">
-                                    <input class="site-input" placeholder="E-mail">
-                                </div>
-                                <div class="col-md-12">
-                                    <textarea class="site-area" placeholder="Message"></textarea>
-                                </div>
-                                <div class="col-md-12 top_15 bottom_30">
-                                    <button class="site-btn" type="submit">Submit</button>
-                                </div>
-                            </div>
-                        </form>  
-                    </section>
-                    <!-- Contact Informations -->
-                    <section class="contact-info col-md-6 padding_30 padbot_45">
-                        <div class="section-title top_15 bottom_30"><span></span><h2>Contact Informations</h2></div>
-                        <ul>
-                            <li><span>Address:</span> 107727 Santa Monica Boulevard Los Angeles</li>
-                            <li><span>Phone:</span> +38 012-3456-7890</li>
-                            <li><span>Job:</span> Freelancer</li>
-                            <li><span>E-mail:</span> chris@domain.com</li>
-                            <li><span>Skype:</span> chrisjohnson85</li>
-                            <li>
-                                <div class="social-icons top_15"> 
-                                    <a class="fb" href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a> 
-                                    <a class="tw" href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a> 
-                                    <a class="ins" href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a> 
-                                    <a class="dr" href="#"><i class="fa fa-dribbble" aria-hidden="true"></i></a> 
-                                </div>
-                            </li>
-                        </ul>
-                    </section>
-            </div>
+                <div class="left_contact">
+                    <h2>Contact Form</h2>
+                    <form action="mail.php">
+                        <input type="text" class="form-control text_box" id="name" placeholder="name">
+                        <input type="email" class="form-control text_box" id="email" placeholder="name@example.com">
+                        <textarea class="form-control text_box" id="msg" rows="3"></textarea>
+                        <center><button class="site-btn" type="submit">Submit</button></center>
+                    </form>
+                </div>
+                <div class="right_contact">
+                    <h2>Contact Informations</h2>
+                    <ul>
+                        <li><span>Address:</span> 107727 Santa Monica Boulevard Los Angeles</li>
+                        <li><span>Phone:</span> +38 012-3456-7890</li>
+                        <li><span>Job:</span> Freelancer</li>
+                        <li><span>E-mail:</span> chris@domain.com</li>
+                        <li><span>Skype:</span> chrisjohnson85</li>
+                    </ul>
+                </div>
         </div>
     </div>
 </div>
