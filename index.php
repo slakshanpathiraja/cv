@@ -8,10 +8,11 @@ require_once("includes/head.php");
     </div>
 </div>  
 <!-- start Wrapper -->
-<div class="wrap" id="particles-js">
+<div id="particles-js">
+<div class="wrap" >
     <!-- Profile Section
 ================================================== --> 
-    <div class="left_wrap">
+    <div class="left_wrap" >
         <div class="profile">
             <div class="profile-name">
                 <span class="name">Lakshan Pathiraja</span><br>
@@ -347,7 +348,7 @@ require_once("includes/head.php");
         </div>
     </div>
 </div>
-
+</div>
 <?php
 require_once("includes/footer.php");
 ?>
