@@ -8,7 +8,7 @@ require_once("includes/head.php");
     </div>
 </div>  
 <!-- start Wrapper -->
-<div class="wrap">
+<div class="wrap" id="particles-js">
     <!-- Profile Section
 ================================================== --> 
     <div class="left_wrap">
@@ -62,8 +62,23 @@ require_once("includes/head.php");
         </div>
         <div class="contaner">
             <div id="home">
+                
                     <h6>About Me</h6>
                     I am samitha lakshan pathiraja an undergraduate in electrical engineering with having a vast knowledge regarding several coding languages such as C,C++,C#,Java, python, HMLT……,web designing field and software designing. When every one follows same daily schedules with foods, sleeping, entertaining and working,  each and every day in my life routing starts in front of my laptop by planning creative web designs. The passion of my life is to go to the depth of the digital world with  coding. Sky pipit company which has established focusing the business community  providing a great service for them with creative logos, web designs, business strategies and ideas  and softwares with user requirements is the one of the greatest achievement in my web designing field and manage certain responsibilities as the CEO of sky pipit company with the leadership skills as well as the experiences gained through working as an accountant in peoples leasing bank    . With in a short time , I could step forward to achieve my targets with my knowledge and experience. “ Success is a journey not a destination “, so I don’t expect to finish my journey from here. My passion has still not fulfilled so the revolution in innovation is to be progress in my life.
+                    <div class="gggg">
+                    <!-- Swiper -->
+                    <div class="swiper-container">
+                        <div class="swiper-wrapper">
+                        <div class="swiper-slide" style="background-image:url(https://pixabay.com/get/52e4d14a425bad14f1dc8460da2932761d3ad8e6515379_640.png)"></div>
+                        <div class="swiper-slide" style="background-image:url(https://pixabay.com/get/52e4d14a425bad14f1dc8460da2932761d3ad8e6515379_640.png)"></div>
+                        <div class="swiper-slide" style="background-image:url(https://pixabay.com/get/52e4d14a425bad14f1dc8460da2932761d3ad8e6515379_640.png)"></div>
+                        <div class="swiper-slide" style="background-image:url(https://pixabay.com/get/52e4d14a425bad14f1dc8460da2932761d3ad8e6515379_640.png)"></div>
+                        <div class="swiper-slide" style="background-image:url(https://pixabay.com/get/52e4d14a425bad14f1dc8460da2932761d3ad8e6515379_640.png)"></div>
+                        </div>
+                        <!-- Add Pagination -->
+                        <div class="swiper-pagination"></div>
+                    </div>
+                    </div>
             </div>
             <div id="resume_part_1">
                 <h6>Experience</h6>
@@ -332,86 +347,7 @@ require_once("includes/head.php");
         </div>
     </div>
 </div>
-<script>
-$(document).ready(function(){
-    reset(0);
-    $( "#home" ).show();
-    $( ".profile-information" ).show();
-    $( ".cv_btn" ).show();
-  $("#home_btn").click(function(){
-    reset(1000);
-    $( ".profile-information" ).delay(1000).slideDown(1000);
-    $( ".cv_btn" ).delay(1000).slideDown(1000);
-    $( "#home" ).delay(1000).slideDown(1000);
-  });
-  $("#resum_btn").click(function(){
-    reset(1000);
-    $( ".resume_list" ).delay(1000).slideDown(1000);
-    $( "#resume_part_1" ).delay(1000).slideDown(1000);
-  });
-  $("#portfolio_btn").click(function(){
-    reset(1000);
-    $( ".profile-information" ).delay(1000).slideDown(1000);
-    $( ".cv_btn" ).delay(1000).slideDown(1000);
-    $( "#portfolio" ).delay(1000).slideDown(1000);
-  });
-  $("#blog_btn").click(function(){
-    reset(1000);
-    $( ".profile-information" ).delay(1000).slideDown(1000);
-    $( ".cv_btn" ).delay(1000).slideDown(1000);
-    $( "#blog" ).delay(1000).slideDown(1000);
-  });
-  $("#contact_btn").click(function(){
-    reset(1000);
-    $( ".profile-information" ).delay(1000).slideDown(1000);
-    $( ".cv_btn" ).delay(1000).slideDown(1000);
-    $( "#contact" ).delay(1000).slideDown(1000);
-  });
-  $("#education").click(function(){
-    reset_c(1000);
-    $( "#resume_part_2" ).delay(1000).slideDown(1000);
-  });
-  $("#skills").click(function(){
-    reset_c(1000);
-    $( "#resume_part_3" ).delay(1000).slideDown(1000);
-  });
-  $("#qulification").click(function(){
-    reset_c(1000);
-    $( "#resume_part_4" ).delay(1000).slideDown(1000);
-  });
-  $("#projects").click(function(){
-    reset_c(1000);
-    $( "#resume_part_5" ).delay(1000).slideDown(1000);
-  });
 
-});
-function reset (time) {
-    $( "#home" ).slideUp(time);
-    $( "#resume_part_1" ).slideUp(time); 
-    $( "#resume_part_2" ).slideUp(time);
-    $( "#resume_part_3" ).slideUp(time);
-    $( "#resume_part_4" ).slideUp(time);
-    $( "#resume_part_5" ).slideUp(time);
-    $( "#portfolio" ).slideUp(time);
-    $( "#blog" ).slideUp(time);
-    $( "#contact" ).slideUp(time);
-    $( ".profile-information" ).slideUp(time);
-    $( ".cv_btn" ).slideUp(time);
-    $( ".resume_list" ).slideUp(time);
-    $( ".portfolio_list" ).slideUp(time);
-}
-function reset_c (time) {
-    $( "#home" ).slideUp(time);
-    $( "#resume_part_1" ).slideUp(time); 
-    $( "#resume_part_2" ).slideUp(time);
-    $( "#resume_part_3" ).slideUp(time);
-    $( "#resume_part_4" ).slideUp(time);
-    $( "#resume_part_5" ).slideUp(time);
-    $( "#portfolio" ).slideUp(time);
-    $( "#blog" ).slideUp(time);
-    $( "#contact" ).slideUp(time);
-}
-</script>
 <?php
-require_once("includes/head.php");
+require_once("includes/footer.php");
 ?>
