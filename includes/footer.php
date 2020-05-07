@@ -9,12 +9,16 @@
 <script src="js/swiper.min.js"></script>
 <!-- partical background JS -->
 <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+<!-- progress bar JS -->
+<script src="js/tox-progress.js"></script>
+
 <script>
 $(document).ready(function(){
     reset(0);
     $( "#home" ).show();
     $( ".profile-information" ).show();
     $( ".cv_btn" ).show();
+    ToxProgress.create();
   $("#home_btn").click(function(){
     reset(1000);
     $( ".profile-information" ).delay(1000).slideDown(1000);
@@ -51,6 +55,7 @@ $(document).ready(function(){
   $("#skills").click(function(){
     reset_c(1000);
     $( "#resume_part_3" ).delay(1000).slideDown(1000);
+    ToxProgress.animate();
   });
   $("#qulification").click(function(){
     reset_c(1000);
@@ -122,7 +127,7 @@ particlesJS("particles-js", {
       "type": "circle",
       "stroke": {
         "width": 0,
-        "color": "#000000"
+        "color": "#eee"
       },
       "polygon": {
         "nb_sides": 15
@@ -139,19 +144,19 @@ particlesJS("particles-js", {
       }
     },
     "size": {
-      "value": 2.5,
+      "value": 3.5,
       "random": false,
       "anim": {
         "enable": true,
         "speed": 2,
-        "size_min": 0.15,
+        "size_min": 0.55,
         "sync": false
       }
     },
     "line_linked": {
       "enable": true,
       "distance": 110,
-      "color": "#33b1f8",
+      "color": "#eee",
       "opacity": 0.25,
       "width": 1
     },

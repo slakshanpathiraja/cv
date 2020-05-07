@@ -65,16 +65,18 @@ require_once("includes/head.php");
             <div id="home">
                 
                     <h6>About Me</h6>
-                    I am samitha lakshan pathiraja an undergraduate in electrical engineering with having a vast knowledge regarding several coding languages such as C,C++,C#,Java, python, HMLT……,web designing field and software designing. When every one follows same daily schedules with foods, sleeping, entertaining and working,  each and every day in my life routing starts in front of my laptop by planning creative web designs. The passion of my life is to go to the depth of the digital world with  coding. Sky pipit company which has established focusing the business community  providing a great service for them with creative logos, web designs, business strategies and ideas  and softwares with user requirements is the one of the greatest achievement in my web designing field and manage certain responsibilities as the CEO of sky pipit company with the leadership skills as well as the experiences gained through working as an accountant in peoples leasing bank    . With in a short time , I could step forward to achieve my targets with my knowledge and experience. “ Success is a journey not a destination “, so I don’t expect to finish my journey from here. My passion has still not fulfilled so the revolution in innovation is to be progress in my life.
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus asperiores animi nihil repudiandae, eum optio necessitatibus! Reiciendis aperiam minima fugiat! Cupiditate architecto molestias voluptates alias corporis, ex est iure voluptate vero accusamus fugiat similique rem vitae recusandae quos impedit laudantium, aperiam doloribus. Voluptatum, repellat pariatur eos harum aut ducimus dolore debitis perspiciatis consequatur similique eius excepturi possimus. Deleniti similique, magni provident, voluptatem fugit maiores debitis sunt facilis laboriosam nam labore facere odit illum dolorum sit aperiam dolores, architecto molestias ipsum! Quibusdam alias sint iure natus perspiciatis labore voluptate. Sit qui eos maiores quod autem inventore aspernatur impedit iusto omnis nobis.
                     <div class="gggg">
                     <!-- Swiper -->
                     <div class="swiper-container">
                         <div class="swiper-wrapper">
-                        <div class="swiper-slide" style="background-image:url(https://pixabay.com/get/52e4d14a425bad14f1dc8460da2932761d3ad8e6515379_640.png)"></div>
-                        <div class="swiper-slide" style="background-image:url(https://pixabay.com/get/52e4d14a425bad14f1dc8460da2932761d3ad8e6515379_640.png)"></div>
-                        <div class="swiper-slide" style="background-image:url(https://pixabay.com/get/52e4d14a425bad14f1dc8460da2932761d3ad8e6515379_640.png)"></div>
-                        <div class="swiper-slide" style="background-image:url(https://pixabay.com/get/52e4d14a425bad14f1dc8460da2932761d3ad8e6515379_640.png)"></div>
-                        <div class="swiper-slide" style="background-image:url(https://pixabay.com/get/52e4d14a425bad14f1dc8460da2932761d3ad8e6515379_640.png)"></div>
+                        <div class="swiper-slide" style="background-image:url(img/com_5.jpg)"></div>
+                        <div class="swiper-slide" style="background-image:url(img/com_2.jpg)"></div>
+                        <div class="swiper-slide" style="background-image:url(img/com_3.jpg)"></div>
+                        <div class="swiper-slide" style="background-image:url(img/com_1.jpg)"></div>
+                        <div class="swiper-slide" style="background-image:url(img/com_4.jpg)"></div>
+                        <div class="swiper-slide" style="background-image:url(img/com_6.jpg)"></div>
+                        <div class="swiper-slide" style="background-image:url(img/com_7.jpg)"></div>
                         </div>
                         <!-- Add Pagination -->
                         <div class="swiper-pagination"></div>
@@ -83,22 +85,153 @@ require_once("includes/head.php");
             </div>
             <div id="resume_part_1">
                 <h6>Experience</h6>
-                15th September 2017 to 28th September 2018 : <br>Training accountant clerk at Negombo branch of Peoples Capital Pvt Ltd. Performed office and  on-set duties 
+                <ul>
+                    <li>
+                        <div>Skypipit inc</div>
+                        <div>
+                            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Reprehenderit optio voluptatum doloremque eveniet quasi accusantium nulla minus id dicta nesciunt repudiandae ipsa eum ipsum nemo laborum, ea odio aliquid animi.
+                        </div>
+                    </li>
+                    <li>
+                        <div>Fiver</div>
+                        <div>
+                            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellat, perspiciatis rem eaque ut cupiditate dignissimos nam possimus quisquam, laborum doloremque ex a inventore deleniti quibusdam quam doloribus facilis, reprehenderit sint?
+                        </div>
+                    </li>
+                    <li>
+                        <div>peoplePerHour</div>
+                        <div>
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid hic soluta libero illo maxime magni similique cupiditate id sit ratione, vitae totam voluptatem omnis earum. Reprehenderit architecto at minus voluptatum?
+                        </div>
+                    </li>
+                </ul>
             </div>
             <div id="resume_part_2">
                 <h6>Education</h6>
-                2018  –  University of Ruhuna <br>
-                Undergraduate student in faculty of engineering, University of Ruhuna <br>
-                2016 – Central College, Kuliyapitiya  <br>
-                Advanced level Examination in Physical Science Scheme <br> 
-                2013  Kuli/Baragedara Anagarika Dharmapala Central College <br>
-                Ordinary Level Examination 
+                <ul>
+                    <li>
+                        <div>2018  –  University of Ruhuna</div>
+                        <div>
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure provident reprehenderit sunt, aperiam sit, aliquid animi nobis velit consectetur reiciendis aut distinctio ipsa? Provident dignissimos magni iste sequi commodi sed?
+                        </div>
+                    </li>
+                    <li>
+                        <div>2016 – Central College, Kuliyapitiya</div>
+                        <div>
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente facilis aliquid adipisci accusamus consequuntur fugiat accusantium harum sed. Facere cumque voluptatum dolorem dolores, qui tempora eius autem fuga quae minus.
+                        </div>
+                    </li>
+                    <li>
+                        <div>2013  Kuli/Baragedara Anagarika Dharmapala Central College</div>
+                        <div>
+                            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus veniam voluptatum unde corporis tempore commodi nihil vitae ad nobis cum adipisci soluta doloribus sunt voluptate, fugit consectetur officiis perferendis necessitatibus!
+                        </div>
+                    </li>
+                </ul>
+                 
+                 
             </div>
             <div id="resume_part_3">
                 <h6>Skills</h6>
-                <div class="progress">
-                <div class="progress-bar progress-bar-striped bg-success" role="progressbar" style="width: 25%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="design">
+                    <h4>DESIGN</h4>
+                    <div class="d_skill_1">
+                        <h6>PS</h6>
+                        <div class="progress">
+                        <div class="progress-bar progress-bar-striped bg-success" role="progressbar" style="width: 25%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                        </div>
+                    </div>
+                    <div class="d_skill_2">
+                        <h6>AI</h6>
+                        <div class="progress">
+                        <div class="progress-bar progress-bar-striped bg-success" role="progressbar" style="width: 25%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                        </div>
+                    </div>
                 </div>
+                <div class="cording">
+                    <h4>CODING</h4>
+                    <div class="c_skill_1">
+                     
+                        <div class="tox-progress"
+                            data-size="130"
+                            data-thickness="12"
+                            data-color="#229922"
+                            data-background="#ffffff"
+                            data-progress="75"
+                            data-speed="500">
+                            <div class="tox-progress-content"
+                                data-vcenter="true">
+                               <h6 style="padding-left: 20px;">PHP/MYSQL</h6>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="c_skill_2">
+                        
+                        <div class="tox-progress"
+                            data-size="130"
+                            data-thickness="12"
+                            data-color="#229922"
+                            data-background="#ffffff"
+                            data-progress="75"
+                            data-speed="500">
+                            <div class="tox-progress-content"
+                                data-vcenter="true">
+                               <h6 style="padding-left: 16px;">HTML/CSS/JS</h6>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="c_skill_3">
+                        
+                        <div class="tox-progress"
+                            data-size="130"
+                            data-thickness="12"
+                            data-color="#229922"
+                            data-background="#ffffff"
+                            data-progress="75"
+                            data-speed="500">
+                            <div class="tox-progress-content"
+                                data-vcenter="true">
+                               <h6 style="padding-left: 50px;">C#</h6>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="c_skill_4">
+                        
+                        <div class="tox-progress"
+                            data-size="130"
+                            data-thickness="12"
+                            data-color="#229922"
+                            data-background="#ffffff"
+                            data-progress="75"
+                            data-speed="500">
+                            <div class="tox-progress-content"
+                                data-vcenter="true">
+                               <h6 style="padding-left: 30px;">PYTHON</h6>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="c_skill_5">
+
+                        <div class="tox-progress"
+                            data-size="130"
+                            data-thickness="12"
+                            data-color="#229922"
+                            data-background="#ffffff"
+                            data-progress="75"
+                            data-speed="500">
+                            <div class="tox-progress-content"
+                                data-vcenter="true">
+                               <h6 style="padding-left: 50px;">JAVA</h6>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+                
             </div>
             <div id="resume_part_4">
                 <h6>Qualifications</h6>
@@ -116,31 +249,31 @@ require_once("includes/head.php");
                         <div class="gallery" ><!--640*420-->
                             <img src="https://www.sololearn.com/Certificate/1014-18360287/jpg" alt="" width="100%">
                         </div>
-                        <p class="title">HTML5 full Courses</p>
+                        <p class="title">HTML5 Courses</p>
                         </a>
                     </div>
                      <!-- a card -->
-                     <div class="cards c_h"><a class="item" href="player.php">
+                     <div class="cards c_h"><a class="item" href="https://www.udemy.com/certificate/UC-90c1b532-7aae-4976-ad92-ff58fbcf3275/">
                         <div class="gallery" ><!--640*420-->
-                            <img src="img/work.jpg" alt="" width="100%">
+                            <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-90c1b532-7aae-4976-ad92-ff58fbcf3275.jpg" alt="" width="100%">
                         </div>
-                        <p class="title">ghjghgnbbnmnbbm nbnb></p>
+                        <p class="title">Advanced HTML5 Course</p>
                         </a>
                     </div>
                      <!-- a card -->
-                     <div class="cards c_h"><a class="item" href="player.php">
+                     <div class="cards c_h"><a class="item" href="https://www.bitdegree.org/api/certificate?slug=how-to-make-a-game-with-unity&action=download&username=lakshan-pathiraja627548">
                         <div class="gallery" ><!--640*420-->
-                            <img src="img/work.jpg" alt="" width="100%">
+                            <img src="img/c_1.jpg" alt="" width="100%">
                         </div>
-                        <p class="title">ghjghgnbbnmnbbm nbnb></p>
+                        <p class="title">Make a Game with Unity Course</p>
                         </a>
                     </div>
                      <!-- a card -->
-                     <div class="cards c_h"><a class="item" href="player.php">
+                     <div class="cards c_h"><a class="item" href="https://www.udemy.com/certificate/UC-9422ee1d-b1ee-478d-b911-766b7eb29fd2/">
                         <div class="gallery" ><!--640*420-->
-                            <img src="img/work.jpg" alt="" width="100%">
+                            <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-9422ee1d-b1ee-478d-b911-766b7eb29fd2.jpg" alt="" width="100%">
                         </div>
-                        <p class="title">ghjghgnbbnmnbbm nbnb></p>
+                        <p class="title">React Native and Redux Course</p>
                         </a>
                     </div>
                 </div>
@@ -149,45 +282,22 @@ require_once("includes/head.php");
                 <h6>Projects</h6>
                 <div class="gallery">
                      <!-- a card -->
-                    <div class="cards"><a class="item" href="player.php">
+                    <div class="cards"><a class="item" href="https://mg2tor.herokuapp.com/ariang/#!/downloading">
                         <div class="gallery" ><!--640*420-->
-                            <img src="img/work.jpg" alt="" width="100%">
+                            <img src="img/9.jpg" alt="Torent to cloud Storage project" width="100%">
                         </div>
-                        <p class="title">ghjghgnbbnmnbbm nbnb></p>
+                        <p class="title">Torent to cloud Storage project</p>
                         </a>
                     </div>
                      <!-- a card -->
-                     <div class="cards"><a class="item" href="player.php">
+                     <div class="cards"><a class="item" href="https://lakshanvideo.herokuapp.com/">
                         <div class="gallery" ><!--640*420-->
-                            <img src="img/work.jpg" alt="" width="100%">
+                            <img src="img/10.jpg" alt="video streaming project" width="100%">
                         </div>
-                        <p class="title">ghjghgnbbnmnbbm nbnb></p>
+                        <p class="title">video streaming project</p>
                         </a>
                     </div>
-                     <!-- a card -->
-                     <div class="cards"><a class="item" href="player.php">
-                        <div class="gallery" ><!--640*420-->
-                            <img src="img/work.jpg" alt="" width="100%">
-                        </div>
-                        <p class="title">ghjghgnbbnmnbbm nbnb></p>
-                        </a>
-                    </div>
-                     <!-- a card -->
-                     <div class="cards"><a class="item" href="player.php">
-                        <div class="gallery" ><!--640*420-->
-                            <img src="img/work.jpg" alt="" width="100%">
-                        </div>
-                        <p class="title">ghjghgnbbnmnbbm nbnb></p>
-                        </a>
-                    </div>
-                     <!-- a card -->
-                     <div class="cards"><a class="item" href="player.php">
-                        <div class="gallery" ><!--640*420-->
-                            <img src="img/work.jpg" alt="" width="100%">
-                        </div>
-                        <p class="title">ghjghgnbbnmnbbm nbnb></p>
-                        </a>
-                    </div>
+                    
                 </div>
             </div>
             <div id="portfolio">
@@ -262,7 +372,7 @@ require_once("includes/head.php");
                     <!-- a card -->
                     <div class="cards p_h"><a class="item" href="https://mg2tor.herokuapp.com/ariang/#!/downloading">
                         <div class="gallery" ><!--640*420-->
-                            <img src="img/9.jpg" alt="" width="100%">
+                            <img src="img/9.jpg" alt="Torent to cloud Storage project" width="100%">
                         </div>
                         <p class="title">Torent to cloud Storage project</p>
                         </a>
@@ -305,19 +415,19 @@ require_once("includes/head.php");
                         </a>
                     </div>
                      <!-- a card -->
-                     <div class="cards b_h"><a class="item" href="player.php">
+                     <div class="cards b_h"><a class="item" href="https://flynet.netlify.app/free-android-emulator-on-pc-and-mac-nox/">
                         <div class="gallery" ><!--640*420-->
-                            <img src="img/work.jpg" alt="" width="100%">
+                            <img src="img/blog_4.jpg" alt="" width="100%">
                         </div>
-                        <p class="title">ghjghgnbbnmnbbm nbnb></p>
+                        <p class="title">Android Emulator</p>
                         </a>
                     </div>
                      <!-- a card -->
-                     <div class="cards b_h"><a class="item" href="player.php">
+                     <div class="cards b_h"><a class="item" href="https://flynet.netlify.app/type-mathematical-notation/">
                         <div class="gallery" ><!--640*420-->
-                            <img src="img/work.jpg" alt="" width="100%">
+                            <img src="img/blog_5.png" alt="" width="100%">
                         </div>
-                        <p class="title">ghjghgnbbnmnbbm nbnb></p>
+                        <p class="title">Type mathematical notation</p>
                         </a>
                     </div>
                 </div>
@@ -338,12 +448,17 @@ require_once("includes/head.php");
                 <div class="right_contact">
                     <h2>Contact Informations</h2>
                     <ul>
-                        <li><span>Address:</span> 107727 Santa Monica Boulevard Los Angeles</li>
-                        <li><span>Phone:</span> +38 012-3456-7890</li>
+                        <li><span>Phone:</span> +94 076-868-4275</li>
                         <li><span>Job:</span> Freelancer</li>
-                        <li><span>E-mail:</span> chris@domain.com</li>
-                        <li><span>Skype:</span> chrisjohnson85</li>
+                        <li><span>E-mail:</span> slakshanpathiraja@gmail.com</li>
+                        <li><span>linkedin:</span> lakshan-pathiraja</li>
                     </ul>
+                    <div class="hidden-md social-icons "> 
+                        <a class="fb" href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a> 
+                        <a class="tw" href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a> 
+                        <a class="ins" href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a> 
+                        <a class="dr" href="#"><i class="fa fa-github" aria-hidden="true"></i></a> 
+                    </div>
                 </div>
         </div>
     </div>

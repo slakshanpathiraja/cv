@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400&family=Montserrat:wght@100;200;300&display=swap');
 .wrap{
     width: 100%;
     overflow: auto;
@@ -21,7 +22,7 @@
 }
 /*------------------------  Profile Section ------------------------*/
 .profile{
-    background-color: white;
+    background-color: rgba(255, 255, 255, 0.700);
     margin-left: 12%;
     border-radius: 6px;
     -moz-border-radius: 6px;
@@ -58,8 +59,9 @@
     width: 100%;
 }
 ul.profile-information{
+    position: relative;
     list-style: none;
-    margin: 8px 0px 0px 35px;
+    margin: 8px 0px 0px 5px;
 }
 ul.profile-information li{
     border-left: solid 2px #eee;
@@ -207,15 +209,13 @@ ul.profile-information li:first-child:before{
 }
 /*------------------------  header Section ------------------------*/
 .header{
+    font-family: comfortaa;
     width: 100%;
-    background-color:#fff;
+    background-color:rgba(255, 255, 255, 0.700);
     border-radius: 8px;
     overflow: auto;
-    height: 50px;
-    display: inline-block;    
-    box-shadow: 0px 2px 92px 0px rgba(0, 0, 0, 0.07);
-    -webkit-box-shadow: 0px 2px 92px 0px rgba(0, 0, 0, 0.07);
-    -moz-box-shadow: 0px 2px 92px 0px rgba(0, 0, 0, 0.07);
+    display: inline-block;
+    padding: 0;
 }
 .tabs{
     padding-left: 0px;
@@ -226,37 +226,48 @@ ul.profile-information li:first-child:before{
     list-style: none;
     display: inline;
     padding-right: 10px;
+    color: white;
+}
+.header ul li a{
+    font-family: comfortaa;
+    text-decoration: none;
+    color: white;
 }
 .home-btn{
+    font-family: comfortaa;
+    text-decoration: none;
     font-size: 26px;
     background-color: violet;
     color: #fff;
-    padding-top: 20px;
     padding-left: 20px;
     padding-right: 15px;
-    padding-bottom: 13px;
+    border-color: mintcream;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 .social-icons {
+    padding-top: 3px;
     float: right;
     padding-right: 15px;
-    padding-top: 9px;
 }
 .social-icons a{
-    color: violet;
+    text-decoration: none;
+    color: white;
     font-size: 20px;
     padding-right: 10px;
 }
 .hamburger{
-    padding-top: 9px;
+    padding-top: 3px;
     padding-right: 15px;
     float: right;
     font-size: 20px;
+    display: none;
 }
 /*------------------------  page Section ------------------------*/
 .contaner{
     width: 100%;
     margin-top: 3vh;
-    background-color: white;
+    background-color: rgba(255, 255, 255, 0.700);
     border-radius: 8px;
     padding: 20px;
     display: inline-block;    
@@ -266,10 +277,117 @@ ul.profile-information li:first-child:before{
     text-align: justify;
 }
 /*------------------------home -  page Section ------------------------*/
+#home{
+    font-family: comfortaa;
+}
 
 /*------------------------resum -  page Section ------------------------*/
+#resume_part_1 ul{
+    position: relative;
+ list-style: none;
+}
+#resume_part_1 ul li div:nth-child(1){
+    margin-top: 10px;
+    margin-bottom: 5px;
+    background-color: violet;
+    border-radius: 17px;
+    padding: 5px 15px;
+    display: inline-block;
+}
+#resume_part_1 ul div{
+    margin-left: 30px;
+}
+#resume_part_1 ul:before{
+    position: absolute;
+    content: '';
+    background-color: #ddd;
+    width: 2px;
+    height: 250px;
+}
+#resume_part_1 ul li div:nth-child(1):before{
+    content: '';
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    background-color: white;
+    border: 2px solid violet;
+    border-radius: 50%;
+    left: 36px;
+}
+#resume_part_2 ul{
+    position: relative;
+ list-style: none;
+}
+#resume_part_2 ul li div:nth-child(1){
+    margin-top: 10px;
+    margin-bottom: 5px;
+    background-color: violet;
+    border-radius: 17px;
+    padding: 5px 15px;
+    display: inline-block;
+}
+#resume_part_2 ul div{
+    margin-left: 30px;
+}
+#resume_part_2 ul:before{
+    position: absolute;
+    content: '';
+    background-color: #ddd;
+    width: 2px;
+    height: 250px;
+}
+#resume_part_2 ul li div:nth-child(1):before{
+    content: '';
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    background-color: white;
+    border: 2px solid violet;
+    border-radius: 50%;
+    left: 36px;
+}
 .c_h{
     height: 250px;
+}
+.design{
+    overflow: auto;
+    margin-bottom: 50px;
+}
+.d_skill_1{
+    width: 50%;
+    float: left;
+    padding-right: 20px;
+}
+.d_skill_2{
+    width: 50%;
+    float: left;
+    padding-left: 20px;
+}
+.cording{
+    overflow: auto;
+    width: 100%;
+    height: auto;
+    margin-bottom: 50px;
+}
+.c_skill_1{
+    float: left;
+    padding: 26px;
+}
+.c_skill_2{
+    float: left;
+    padding: 26px;
+}
+.c_skill_3{
+    float: left;
+    padding: 26px;
+}
+.c_skill_4{
+    float: left;
+    padding: 26px;
+}
+.c_skill_5{
+    float: left;
+    padding: 26px;
 }
 /*------------------------PORTFOLIO -  page Section ------------------------*/
 .cards{
@@ -334,3 +452,27 @@ ul.profile-information li:first-child:before{
       float: right;
       padding: 30px;
   }
+/*------------------------media quary ------------------------*/
+  @media screen and (max-width:1104px){
+    .left_wrap{
+        display: none;  
+    }
+    .right_wrap{
+        width: 100%;
+    }
+  
+}
+@media screen and (max-width:550px){
+    .social-icons{
+        display: none;  
+    } 
+}
+@media screen and (max-width:500px){
+    .tab_i{
+        display: none;  
+    }  
+    .hamburger{
+        display: block;
+    }
+    
+}
