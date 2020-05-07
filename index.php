@@ -308,7 +308,7 @@ require_once("includes/head.php");
                      <!-- a card -->
                     <div class="cards p_h"><a class="item" href="https://skypipit.gq/">
                         <div class="gallery" ><!--640*420-->
-                            <img src="img/p_1.jpg" alt="Skypipit inc" width="100%">
+                            <img src="img/https://firebasestorage.googleapis.com/v0/b/storage-c8234.appspot.com/o/img%2F1.JPG?alt=media&token=907fbcbc-015b-4ebc-b52c-d3b73e06cc9b" alt="Skypipit inc" width="100%">
                         </div>
                         <p class="title">Skypipit inc</p>
                         </a>
