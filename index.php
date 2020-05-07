@@ -284,7 +284,7 @@ require_once("includes/head.php");
                      <!-- a card -->
                     <div class="cards"><a class="item" href="https://mg2tor.herokuapp.com/ariang/#!/downloading">
                         <div class="gallery" ><!--640*420-->
-                            <img src="img/9.jpg" alt="Torent to cloud Storage project" width="100%">
+                            <img src="img/p_9.jpg" alt="Torent to cloud Storage project" width="100%">
                         </div>
                         <p class="title">Torent to cloud Storage project</p>
                         </a>
@@ -292,7 +292,7 @@ require_once("includes/head.php");
                      <!-- a card -->
                      <div class="cards"><a class="item" href="https://lakshanvideo.herokuapp.com/">
                         <div class="gallery" ><!--640*420-->
-                            <img src="img/10.jpg" alt="video streaming project" width="100%">
+                            <img src="img/p_10.jpg" alt="video streaming project" width="100%">
                         </div>
                         <p class="title">video streaming project</p>
                         </a>
@@ -308,7 +308,7 @@ require_once("includes/head.php");
                      <!-- a card -->
                     <div class="cards p_h"><a class="item" href="https://skypipit.gq/">
                         <div class="gallery" ><!--640*420-->
-                            <img src="img/1.jpg" alt="Skypipit inc" width="100%">
+                            <img src="img/p_1.jpg" alt="Skypipit inc" width="100%">
                         </div>
                         <p class="title">Skypipit inc</p>
                         </a>
@@ -316,7 +316,7 @@ require_once("includes/head.php");
                      <!-- a card -->
                      <div class="cards p_h"><a class="item" href="https://skypipit.gq/">
                         <div class="gallery" ><!--640*420-->
-                            <img src="img/2.jpg" alt="Skypipit inc" width="100%">
+                            <img src="img/p_2.jpg" alt="Skypipit inc" width="100%">
                         </div>
                         <p class="title">Skypipit inc</p>
                         </a>
@@ -324,7 +324,7 @@ require_once("includes/head.php");
                      <!-- a card -->
                      <div class="cards p_h"><a class="item" href="https://skypipit.gq/">
                         <div class="gallery" ><!--640*420-->
-                            <img src="img/3.jpg" alt="Skypipit inc" width="100%">
+                            <img src="img/p_3.jpg" alt="Skypipit inc" width="100%">
                         </div>
                         <p class="title">Skypipit inc</p>
                         </a>
@@ -332,7 +332,7 @@ require_once("includes/head.php");
                      <!-- a card -->
                      <div class="cards p_h"><a class="item" href="https://skypipit.gq/">
                         <div class="gallery" ><!--640*420-->
-                            <img src="img/4.jpg" alt="Skypipit inc" width="100%">
+                            <img src="img/p_4.jpg" alt="Skypipit inc" width="100%">
                         </div>
                         <p class="title">Skypipit inc</p>
                         </a>
@@ -340,7 +340,7 @@ require_once("includes/head.php");
                      <!-- a card -->
                      <div class="cards p_h"><a class="item" href="https://skypipit.gq/">
                         <div class="gallery" ><!--640*420-->
-                            <img src="img/5.jpg" alt="Skypipit inc" width="100%">
+                            <img src="img/p_5.jpg" alt="Skypipit inc" width="100%">
                         </div>
                         <p class="title">Skypipit inc</p>
                         </a>
@@ -348,7 +348,7 @@ require_once("includes/head.php");
                     <!-- a card -->
                     <div class="cards p_h"><a class="item" href="https://flynet.netlify.app/">
                         <div class="gallery" ><!--640*420-->
-                            <img src="img/6.jpg" alt="Flynet blog" width="100%">
+                            <img src="img/p_6.jpg" alt="Flynet blog" width="100%">
                         </div>
                         <p class="title">Flynet blog</p>
                         </a>
@@ -356,7 +356,7 @@ require_once("includes/head.php");
                     <!-- a card -->
                     <div class="cards p_h"><a class="item" href="https://flynet.netlify.app/">
                         <div class="gallery" ><!--640*420-->
-                            <img src="img/7.jpg" alt="Flynet blog" width="100%">
+                            <img src="img/p_7.jpg" alt="Flynet blog" width="100%">
                         </div>
                         <p class="title">Flynet blog</p>
                         </a>
@@ -364,7 +364,7 @@ require_once("includes/head.php");
                     <!-- a card -->
                     <div class="cards p_h"><a class="item" href="https://flynet.netlify.app/">
                         <div class="gallery" ><!--640*420-->
-                            <img src="img/8.jpg" alt="Flynet blog" width="100%">
+                            <img src="img/p_8.jpg" alt="Flynet blog" width="100%">
                         </div>
                         <p class="title">Flynet blog</p>
                         </a>
@@ -372,7 +372,7 @@ require_once("includes/head.php");
                     <!-- a card -->
                     <div class="cards p_h"><a class="item" href="https://mg2tor.herokuapp.com/ariang/#!/downloading">
                         <div class="gallery" ><!--640*420-->
-                            <img src="img/9.jpg" alt="Torent to cloud Storage project" width="100%">
+                            <img src="img/p_9.jpg" alt="Torent to cloud Storage project" width="100%">
                         </div>
                         <p class="title">Torent to cloud Storage project</p>
                         </a>
@@ -380,7 +380,7 @@ require_once("includes/head.php");
                     <!-- a card -->
                     <div class="cards p_h"><a class="item" href="https://lakshanvideo.herokuapp.com/">
                         <div class="gallery" ><!--640*420-->
-                            <img src="img/10.jpg" alt="" width="100%">
+                            <img src="img/p_10.jpg" alt="" width="100%">
                         </div>
                         <p class="title">video streaming project</p>
                         </a>
